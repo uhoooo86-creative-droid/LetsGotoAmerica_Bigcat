@@ -1,0 +1,30 @@
+{
+  "city": "New York",
+  "theme": "Landmarks and city adventure",
+  "landmarks": [
+    {
+      "name": "Statue of Liberty",
+      "shortText": "A giant green statue holding a torch.",
+      "storyText": "Big Cat arrives by boat and sees a huge lady holding a bright torch, as if saying welcome to New York.",
+      "words": ["torch", "statue", "boat", "green"],
+      "mission": "Raise your hand like a torch and say Welcome!",
+      "videoIdea": "Boat moves across water, statue appears, torch sparkles."
+    },
+    {
+      "name": "Empire State Building",
+      "shortText": "A super tall building reaching up to the sky.",
+      "storyText": "Big Cat looks up and up and up until the building almost touches the clouds.",
+      "words": ["tall", "building", "sky", "up"],
+      "mission": "Stand tall and build a tower with blocks.",
+      "videoIdea": "Camera moves upward along the building with clouds passing by."
+    },
+    {
+      "name": "Times Square",
+      "shortText": "A bright place full of lights and giant screens.",
+      "storyText": "At night, Big Cat sees bright signs everywhere and feels like the city never sleeps.",
+      "words": ["light", "bright", "city", "night"],
+      "mission": "Twinkle your fingers and say Bright city!",
+      "videoIdea": "Neon signs blink, screens glow, cars pass by."
+    }
+  ]
+}
